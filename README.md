@@ -1,2 +1,4 @@
-# Coffee-Consumption
- A data analysis case study
+# Analysis Fundamental Methods
+Data analysis case studies:
+- Coffee Consumption Problem
+- Attendance Problem
