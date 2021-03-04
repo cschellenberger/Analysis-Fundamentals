@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T20:05:13.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="zikSITh00wxi3OEmJx0s" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T20:06:57.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="G8Wnjc4s5DPjKUQKrC6k" version="14.4.4" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,17 +13,17 @@
         <mxCell id="4" value="1.2 Body and Exterior&#xa;% of work: 51%&#xa;Budget: $10,780&#xa;Assigned to: Team 2" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="480" y="170" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="SUB-PROJECT 6" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="2010" y="169.9999999999998" width="140" height="60" as="geometry" />
+        <mxCell id="5" value="[wbs code] Description&#xa;% of work:&#xa;Budget:&#xa;Assigned to:" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1980" y="170" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="SUB-PROJECT 3" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="900" y="169.9999999999998" width="140" height="60" as="geometry" />
+        <mxCell id="6" value="[wbs code] Description&#xa;% of work:&#xa;Budget:&#xa;Assigned to:" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="870" y="170" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="SUB-PROJECT 4" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1270" y="169.9999999999998" width="140" height="60" as="geometry" />
+        <mxCell id="7" value="[wbs code] Description&#xa;% of work:&#xa;Budget:&#xa;Assigned to:" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1240" y="170" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="SUB-PROJECT 5" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1640" y="169.9999999999998" width="140" height="60" as="geometry" />
+        <mxCell id="8" value="[wbs code] Description&#xa;% of work:&#xa;Budget:&#xa;Assigned to:" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1610" y="170" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="10" value="SUB-TASK 1" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="70" y="300.0000000000001" width="120" height="60" as="geometry" />
